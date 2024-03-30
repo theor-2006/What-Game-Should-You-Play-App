@@ -8,8 +8,6 @@ body {
     font-family: 'Tahoma', cursive;
 }
 
-
-
 input {
     width: 75%;
     padding: 12px 20px;
@@ -37,7 +35,6 @@ img{
     width:800px;
     height:200px;
 }
-
 
 .pop-icon {
     width: 400px;
