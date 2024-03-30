@@ -1,4 +1,4 @@
-# Unit 6 Project: What Should I Watch? App! (STARTER CODE)
+# What Should I Watch? App
 
 
 Let's use our knowledge of conditionals, arrays, loops, and array methods to make an app that gives people suggestion based on user input!
